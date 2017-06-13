@@ -1,0 +1,6 @@
+{
+  "name": "embark-include-packages",
+  "version": "1.0.0",
+  "description": "Include other Solditiy files not contained in src",
+  "main": "index.js"
+}
